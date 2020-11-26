@@ -1,0 +1,12 @@
+ For each item, what is the relationship between bids, bid time, and the closing price? Does this differ by length of the auction, opening bid, or by bidder rating?
+The counst for each item in the dataset: item_Cartier wristwatch     136
+item_Palm Pilot M515 PDA    343
+item_Xbox game console      149
+dtype: int64 It would be hard to compete with so many sellers. However in the long run 7 day auctions would boost the price and the amount of buyers so it would better to hold till the 7th day. The PDA seems to get the most buyers overall.
+The bidders with the best ratings, bid on day 3, notthing like a gurantee sale.
+Initial Bid mean: 44.96856365614776Final Bid mean: 57.74099737101578Delta Bid mean: 12.772433714868022Initial PDA Bid mean: 33.844500197549756Final PDA Bid mean: 29.853857058475985Delta PDA Bid mean: -3.9906431390737716{'p-value': 0.8575418994413408, 'z-score': -0.1383410858165881} has a value of -0.06917054290829405 for 1 talied distribulion for a p-value of more than 0.0001, meaning we would expect to see a result like this in 85% of all open close prices increase over time assuming the alternative hypothesis.Z-score is low and p-value are extremely high, well above the 5% significance level. We reject the Null Hypothesis that price does not change when auction goes on beyon 3 days.The bid open and close change over time, over versus the PDA has a {'p-value': 0.9556039173014146, 'z-score': -0.10137731709464756}Which types of auctions start with the smallest opening bid?
+The 7 day auction starts off with smallest open bid but ends up with the higest closing price.
+Which types of auctions are more common and more profitable?
+The more days you have to auction in item, the more likely you are to achieve a profit.
+Should I start an auction with a higher or lower opening bid (to attract more bidders)?
+Lower bids gurantee more bidders which increase over time, unless someone over bids to early
