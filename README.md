@@ -24,6 +24,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
+[![Kaggle][kaggle-shield]][kaggle-url]
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -46,7 +47,7 @@
   </a>
 
   <h4 align="center">Hey! I'm Donley Gustave a</h4>
-   <h4 align="center"><strong>Business Analyst</strong> and Aspiring Software Engineer</h4>
+   <h4 align="center"><strong>Business Analyst</strong> and Aspiring Machine Learning Engineer</h4>
    
 
   <p align="center">
@@ -79,13 +80,13 @@ If you have any idea or opinion on the result or code (the following code still 
 [license-shield]: icons/certified.png 
 [license-url]: https://github.com/dgustave/README-Template/blob/master/LICENSE.txt>
 [linkedin-url]: https://www.linkedin.com/in/donleygustave/
-[linkedin-shield]: icons/linkedin.png
+[linkedin-shield]: reports/icons/linkedin.png
 [twitter-url]: https://twitter.com/donley_cg
-[twitter-shield]: icons/twitter.png
+[twitter-shield]: reports/icons/twitter.png
 [facebook-url]: https://www.facebook.com/dgustave
-[facebook-shield]: icons/facebook.png
-[kaggle-url]: https://calendly.com/donleyc-gustave/meeting
-[kaggle-shield]:  icons/zoom.png
+[facebook-shield]: reports/icons/facebook.png
+[kaggle-url]: https://www.kaggle.com/donleygustave/ebay-online-auction-notebook
+[kaggle-shield]:  reports/icons/kaggle.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
@@ -113,6 +114,7 @@ Donley Gustave - [@donley_cg](https://twitter.com/donley_cg) - donleyc.gustave@g
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+<li> The data set I came from this users Kaggle page https://www.kaggle.com/onlineauctions/online-auctions-dataset. </li>
 
 
 
