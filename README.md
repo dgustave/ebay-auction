@@ -21,6 +21,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Ebay][ebay-shield]][ebay-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -68,12 +69,13 @@ If you have any idea or opinion on the result or code (the following code still 
     <li>item: auction item</li><br>
     <li>auction_type</li><br>
     <br />
-  
-  <!-- <p align="center">
+
+  <h4 align="center">View Notebook</h4>
+  <p align="center">
   <a href="https://github.com/dgustave/ebay-auction/notebooks/ebay.ipynb">
     <img src="reports/figures/aebay.png" alt="Logo" width="80" height="80">
   </a>
-   <h4 align="center">Portfolio</h4> -->
+
 
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -87,9 +89,11 @@ If you have any idea or opinion on the result or code (the following code still 
 [facebook-shield]: reports/icons/facebook.png
 [kaggle-url]: https://www.kaggle.com/donleygustave/ebay-online-auction-notebook
 [kaggle-shield]:  reports/icons/kaggle.png
+[ebay-url]: https://careers.ebayinc.com/students-recent-grads/
+[ebay-shield]:  reports/figures/ebay.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[project-screenshot]: /reports/figures/bid_items.png
+<!-- [project-screenshot]: /reports/figures/bid_items.png -->
 
 
 
