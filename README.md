@@ -21,7 +21,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Ebay][ebay-shield]][ebay-url]
+<!-- [![Ebay][ebay-shield]][ebay-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -43,7 +43,7 @@
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="/reports/figures/understanding-the-ebay-auction-automatic-bidding-system-1140186-v3-5b476e8c46e0fb005491a242.png" alt="Logo" width="200" height="200">
+    <img src="/reports/figures/ebay.png" alt="Logo" width="200" height="200">
     <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
@@ -73,7 +73,7 @@ If you have any idea or opinion on the result or code (the following code still 
   <h4 align="center">View Notebook</h4>
   <p align="center">
   <a href="https://github.com/dgustave/ebay-auction/notebooks/ebay.ipynb">
-    <img src="reports/figures/aebay.png" alt="Logo" width="80" height="80">
+    <img src="reports/figures/aebay.png" alt="Logo" width="200" height="200">
   </a>
 
 
