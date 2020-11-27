@@ -29,7 +29,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About Me](#about-me)
+* [About Dataset](#about-dataset)
   * [Developing With](#developing-with)
 * [Articles](#articles)
 * [License](#license)
@@ -38,12 +38,12 @@
 
 
 <!-- ABOUT -->
-## About Me
+## About Dataset
 
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="/reports/figures/ebay.png" alt="Logo" width="200" height="200">
+    <img src="/reports/figures/ebay.png" alt="Logo" width="300" height="200">
     <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
