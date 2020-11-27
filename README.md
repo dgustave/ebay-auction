@@ -71,8 +71,9 @@ If you have any idea or opinion on the result or code (the following code still 
     <br />
 
   <h4 align="center">View Notebook</h4>
+  <p>Had to Render the notebook on a nbViewer which is linked to this image and will it is also on Kaggle just click on "K" at the top of the page.</p>
   <p align="center">
-  <a href="https://github.com/dgustave/ebay-auction/notebooks/ebay.ipynb">
+  <a href="https://nbviewer.jupyter.org/github/dgustave/ebay-auction/blob/master/notebooks/ebay.ipynb">
     <img src="reports/figures/aebay.png" alt="Logo" width="200" height="200">
   </a>
 
