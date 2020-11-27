@@ -36,18 +36,18 @@
 * [Acknowledgements](#acknowledgements)
 
 
-<!-- ABOUT ME -->
+<!-- ABOUT -->
 ## About Me
 
   <br />
   <p align="center">
   <a href="https://github.com/dgustave/dgustave">
-    <img src="images/box.png" alt="Logo" width="200" height="200">
+    <img src="/reports/figures/understanding-the-ebay-auction-automatic-bidding-system-1140186-v3-5b476e8c46e0fb005491a242.png" alt="Logo" width="200" height="200">
     <!-- <img src="images/marvinm.png" alt="Logo" width="120" height="120"> -->
   </a>
 
-  <h4 align="center">Hey! I'm Donley Gustave a</h4>
-   <h4 align="center"><strong>Business Analyst</strong> and Aspiring Machine Learning Engineer</h4>
+  <h4 align="center">Online Ebay Auction Dataset</h4>
+   <h4 align="center"><strong>Buyer/Seller </strong>What could do with this data?</h4>
    
 
   <p align="center">
@@ -89,7 +89,7 @@ If you have any idea or opinion on the result or code (the following code still 
 [kaggle-shield]:  reports/icons/kaggle.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[project-screenshot]: images/screenshot.png
+[project-screenshot]: /reports/figures/bid_items.png
 
 
 
